@@ -9,5 +9,5 @@ Download the resource or git clone it and put it in your resources folder with t
 In your `server.cfg` file, add the resource:
 
 ```YML
-    loadingscreen
+    start loadingscreen
 ```
